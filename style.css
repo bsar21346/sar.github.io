@@ -116,3 +116,12 @@ footer {
     padding: 0;  /* Removes any default padding or margins */
     margin-left: auto; /* Pushes the Instagram icon to the right side */
 }
+
+.logo {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 27.5%;
+    width: 45%;
+    height: auto;
+}
